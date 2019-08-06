@@ -60,7 +60,7 @@ fs.readdir(__dirname + '/frames', function(err, files) {
 		setInterval(function(){
 			upload_random_image(images)
 		// debug mode tweets every twenty seconds (20s * 1000ms = 20,000ms)
-		//  if off, it tweets every eight hours (8h * 60m * 60s * 1000ms = 28,800,000)
-		}, debug ? 20000 : 28800000)
+		//  if off, it tweets every nine hours (9h * 60m * 60s * 1000ms = 32,400,000)
+		}, debug ? 20000 : 32400000)
 	}
 })

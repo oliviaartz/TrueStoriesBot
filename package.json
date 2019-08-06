@@ -1,7 +1,7 @@
 {
   "name": "truestoriesbot",
   "version": "1.0.0",
-  "description": "Tweets a randomly chosen frame from the film True Stories every eight hours.",
+  "description": "Tweets a randomly chosen frame from the film True Stories every nine hours.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
