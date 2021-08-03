@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Jack Turner",
+  "author": "Olivia Artz",
   "license": "ISC",
   "dependencies": {
     "twit": "^2.2.11"
